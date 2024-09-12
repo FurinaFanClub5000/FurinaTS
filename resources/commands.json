@@ -1,0 +1,8 @@
+{
+    "help": {
+        "name": "Help Command",
+        "description": "Get some help",
+        "triggers": ["help", "h"],
+        "module": "../commands/help.ts"
+    }
+}
