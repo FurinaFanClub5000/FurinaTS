@@ -17,7 +17,7 @@ export default async function execute(client: Client, reaction: MessageReaction)
     const reactionId = reaction.emoji.id;
     const starboardConfig = Config.getStarboardConfig();
 
-    if (reactionId === starboardConfig.starReactionId && reaction.count >= 2 && !stars.includes(reactionMsg.id)) {
+    if (reactionId === starboardConfig.starReactionId && reaction.count >= 3 && !stars.includes(reactionMsg.id)) {
         stars.push(reactionMsg.id)
         const starEmbed = new EmbedBuilder()
             .setTitle(`<:${reaction.emoji.name}:${reaction.emoji.id}> ${reaction.count} | ${reactionMsg.author?.username}`)
