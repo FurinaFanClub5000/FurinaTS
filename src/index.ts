@@ -1,6 +1,7 @@
 import { Client, GatewayIntentBits } from 'discord.js';
 import ClientData from './util/ClientData';
 import EventConfigData from './util/EventConfig';
+import RegisterUtil from './util/Register';
 
 const client = new Client({
     intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent]
@@ -18,6 +19,9 @@ async function init() {
                 console.error(`[!] Failed to load event handler for ${event}:`, error);
             }
         });
+    }
+    if (ClientData.isRegisterOnStart()) {
+        await RegisterUtil.registerCommands()
     }
     await client.login(ClientData.getToken());
 }

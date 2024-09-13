@@ -2,7 +2,9 @@ import ClientJson from "../../resources/client.json";
 
 interface ClientStruct {
     token: string,
-    botId: string
+    botId: string,
+    guilds: string[],
+    registerOnStart: boolean
 }
 
 const ClientJsonData:ClientStruct = ClientJson
@@ -21,6 +23,14 @@ export default class ClientData {
 
     public static getBotIdInt(): number {
         return Number(ClientJsonData.botId)
+    }
+
+    public static getGuilds(): string[] {
+        return ClientJsonData.guilds
+    }
+
+    public static isRegisterOnStart(): boolean {
+        return ClientJsonData.registerOnStart
     }
 
 }

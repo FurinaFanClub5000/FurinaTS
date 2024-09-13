@@ -1,0 +1,14 @@
+[
+    {
+        "name": "greet",
+        "triggers": ["hi", "hello", "hey", "hai"],
+        "type": "RESPONSE_REPLY",
+        "response": "hi"
+    },
+    {
+        "name": "libing",
+        "triggers": ["libing", "li bing"],
+        "type": "RESPONSE_REACT",
+        "response": "1246511805581234237"
+    }
+]

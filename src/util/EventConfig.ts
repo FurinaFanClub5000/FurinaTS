@@ -2,7 +2,8 @@ import { Events } from "discord.js";
 
 const eventConfig = {
     [Events.ClientReady]: "events/ready.ts",
-    [Events.MessageCreate]: "events/message.ts"
+    [Events.MessageCreate]: "events/message.ts",
+    [Events.InteractionCreate]: "events/interaction.ts"
 };
 
 interface EventConfigStruct {

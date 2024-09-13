@@ -7,17 +7,13 @@ interface CommandsDataStruct {
     module: string;
 }
 
-interface CommandsStruct {
-    [command: string]: CommandsDataStruct;
-}
-
-const CommandsJsonData: CommandsStruct = CommandsJson;
+const CommandsJsonData: CommandsDataStruct[] = CommandsJson;
 
 export default class CommandsData {
 
     private constructor() { }
 
-    public static getCommands(): CommandsStruct {
+    public static getCommands(): CommandsDataStruct[] {
         return CommandsJsonData;
     }
 
