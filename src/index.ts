@@ -1,10 +1,11 @@
-import { Client, GatewayIntentBits } from 'discord.js';
+import { Client, Events, GatewayIntentBits, Partials } from 'discord.js';
 import ClientData from './util/ClientData';
 import EventConfigData from './util/EventConfig';
 import RegisterUtil from './util/Register';
 
 const client = new Client({
-    intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent]
+    partials: [Partials.Message, Partials.Channel, Partials.Reaction],
+    intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent, GatewayIntentBits.GuildMessageReactions]
 });
 
 async function init() {
