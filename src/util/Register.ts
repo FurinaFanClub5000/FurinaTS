@@ -8,10 +8,7 @@ export default class RegisterUtil {
         const slashCommands = SlashCommandsData.getSlashCommands();
 
         const commands = slashCommands.map(command => {
-            return new SlashCommandBuilder()
-                .setName(command.name)
-                .setDescription(command.description)
-                .toJSON();
+            return SlashCommandsData.makeSlashCommand(command).toJSON()
         });
 
         const rest = new REST().setToken(ClientData.getToken());
