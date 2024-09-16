@@ -22,10 +22,10 @@ export default async function execute(client: Client, interaction: ChatInputComm
         return interaction.followUp("oh");
     }
     if (rsp === Retcode.RET_MAINTENANCE) {
-        return interaction.followUp("genshin died");
+        return interaction.followUp("Genshin is on Maintenance");
     }
     if (rsp === Retcode.RET_RATE_LIMIT) {
-        return interaction.followUp("ermm");
+        return interaction.followUp("API is rate limited, Try again later");
     }
 
     const embed = EnkaUtil.makeEnkaBriefEmbed(rsp as BriefDataStruct);

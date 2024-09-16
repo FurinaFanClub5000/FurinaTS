@@ -1,5 +1,5 @@
 import { SlashCommandBuilder } from "discord.js";
-import SlashCommandsJson from "../../resources/slash.json";
+import SlashCommandsJson from "../../resources/SlashCommandData.json";
 
 interface ChoiceListStruct {
     name: string;

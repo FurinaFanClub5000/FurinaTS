@@ -1,4 +1,4 @@
-import ClientJson from "../../resources/client.json";
+import ClientJson from "../../resources/Client.json";
 
 interface ClientStruct {
     token: string,

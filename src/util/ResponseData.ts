@@ -1,4 +1,4 @@
-import ResponseJson from "../../resources/response.json";
+import ResponseJson from "../../resources/ResponseData.json";
 
 interface ResponseJsonStruct {
     name: string,

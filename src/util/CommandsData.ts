@@ -1,4 +1,4 @@
-import CommandsJson from "../../resources/commands.json";
+import CommandsJson from "../../resources/CommandData.json";
 
 interface CommandsDataStruct {
     name: string;
