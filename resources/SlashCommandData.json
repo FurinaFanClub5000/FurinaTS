@@ -10,29 +10,25 @@
         "description": "Get enka.network information",
         "optionsList": [
             {
-                "name": "type",
-                "description": "type of inforamtion displayed",
-                "type": "choice",
-                "required": true,
-                "choiceList": [
-                    {
-                        "name": "brief",
-                        "value": "choice_brief"
-                    },
-                    {
-                        "name": "detailed",
-                        "value": "choice_detail"
-                    }
-                ]
-            },
-            {
                 "name": "uid",
                 "description": "uid of the player",
                 "type": "string",
-                "required": true,
-                "choiceList": []
+                "required": true
             }
         ],
         "module": "../slash/enka.ts"
+    },
+    {
+        "name": "lookup",
+        "description": "Get information on an item",
+        "optionsList": [
+            {
+                "name": "id",
+                "description": "The ID of the item",
+                "type": "integer",
+                "required": true
+            }
+        ],
+        "module": "../slash/lookup.ts"
     }
 ]

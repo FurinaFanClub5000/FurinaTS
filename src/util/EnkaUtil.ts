@@ -32,6 +32,9 @@ export interface BriefDataStruct {
             avatarId?: number
             id?: number
         },
+        theaterActIndex?: number,
+        theaterModeIndex?: number,
+        theaterStarIndex?: number,
         fetterCount: number,
     }
     uid: number,
@@ -39,10 +42,8 @@ export interface BriefDataStruct {
 }
 export default class EnkaUtil {
 
-    public static async getEnkaData(type: string, uid: string): Promise<BriefDataStruct | Retcode> { // Now returns a Promise
-        let apiUrl = type === "choice_brief" 
-            ? `https://enka.network/api/uid/${uid}/` 
-            : `https://enka.network/api/uid/${uid}/?info`;
+    public static async getEnkaData(uid: string): Promise<BriefDataStruct | Retcode> { // Now returns a Promise
+        let apiUrl = `https://enka.network/api/uid/${uid}/?info`;
 
         try {
             const response = await axios.get(apiUrl);
@@ -70,7 +71,8 @@ export default class EnkaUtil {
             .addFields(
                 { name: "Worldlevel", value: data.playerInfo.worldLevel.toString() },
                 { name: "Achievements", value: data.playerInfo.finishAchievementNum.toString() },
-                { name: "Spiral Abyss", value: `${data.playerInfo.towerFloorIndex.toString()}/${data.playerInfo.towerLevelIndex.toString()}` },
+                { name: "Spiral Abyss", value: `${data.playerInfo.towerFloorIndex.toString()}/${data.playerInfo.towerLevelIndex.toString()}` || "Not yet participated" },
+                { name: "Schizo Theater", value: `Act ${data.playerInfo.theaterActIndex} / Mode ${data.playerInfo.theaterModeIndex} / ${data.playerInfo.theaterStarIndex} Stars` || "Not yet participated" },
                 { name: "Friendships", value: data.playerInfo.fetterCount.toString() },
             )
             .setFooter({text: `UID: ${data.uid}`})

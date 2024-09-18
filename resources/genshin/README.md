@@ -1,0 +1,1 @@
+# This containing data is from [AnimeGameData](https://gitlab.com/Dimbreath/AnimeGameData/-/tree/master?ref_type=heads) by dimbreath!
