@@ -6,8 +6,8 @@
         "module": "../slash/help.ts"
     },
     {
-        "name": "enka",
-        "description": "Get enka.network information",
+        "name": "profile",
+        "description": "Lookup a genshin UID",
         "optionsList": [
             {
                 "name": "uid",
@@ -16,12 +16,80 @@
                 "required": true
             }
         ],
-        "module": "../slash/enka.ts"
+        "module": "../slash/profile.ts"
     },
     {
         "name": "lookup",
         "description": "Get information on an item",
         "optionsList": [
+            {
+                "name": "language",
+                "description": "The language to display",
+                "type": "choice",
+                "choiceList": [
+                    {
+                        "name": "English",
+                        "value": "EN"
+                    },
+                    {
+                        "name": "Chinese (Traditional)",
+                        "value": "CHT"
+                    },
+                    {
+                        "name": "Chinese (Simplified)",
+                        "value": "CHS"
+                    },
+                    {
+                        "name": "Deutsch",
+                        "value": "DE"
+                    },
+                    {
+                        "name": "Espanol",
+                        "value": "ES"
+                    },
+                    {
+                        "name": "French",
+                        "value": "FR"
+                    },
+                    {
+                        "name": "Indonesian",
+                        "value": "ID"
+                    },
+                    {
+                        "name": "Italian",
+                        "value": "IT"
+                    },
+                    {
+                        "name": "Japanese",
+                        "value": "JP"
+                    },
+                    {
+                        "name": "Korean",
+                        "value": "KR"
+                    },
+                    {
+                        "name": "Portuguese",
+                        "value": "PT"
+                    },
+                    {
+                        "name": "Russian",
+                        "value": "RU"
+                    },
+                    {
+                        "name": "Thai",
+                        "value": "TH"
+                    },
+                    {
+                        "name": "Turkish",
+                        "value": "TR"
+                    },
+                    {
+                        "name": "Vietnam",
+                        "value": "VI"
+                    }
+                ],
+                "required": true
+            },
             {
                 "name": "id",
                 "description": "The ID of the item",

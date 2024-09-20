@@ -13,7 +13,9 @@ export default async function execute(client: Client, interaction: Interaction) 
         try {
             console.log(`[*] Attempting to execute /${interaction.commandName}`)
             await module.default(client, interaction);
+            console.log(`[*] Finished executing /${interaction.commandName}`)
         } catch (error) {
+            interaction.followUp("Something went wrong")
             const err = error as Error;
             console.error(`[!] Error: ${err.message}\n${err.stack}`);
         }

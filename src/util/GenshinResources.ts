@@ -1,5 +1,4 @@
 import MaterialResourceJson from "../../resources/genshin/Data/MaterialData.json";
-import TextMapResourceJsonEN from "../../resources/genshin/TextMap/TextMapEN.json";
 
 interface MaterialJsonStruct {
     interactionTitleTextMapHash: number;
@@ -34,7 +33,6 @@ interface TextMapJsonStruct {
 
 
 const MaterialJsonData: MaterialJsonStruct[] = MaterialResourceJson as MaterialJsonStruct[];
-const TextMapENJsonData: TextMapJsonStruct = TextMapResourceJsonEN as TextMapJsonStruct;
 
 
 export class MaterialData {
@@ -51,12 +49,24 @@ export class MaterialData {
 
 export class TextMapData {
 
-    public static getText(hash: number): string {
-        const hashStr = hash.toString()
-        if (TextMapENJsonData[hashStr]) {
-            return TextMapENJsonData[hashStr]
+    language: string;
+
+    constructor(language: string) {
+        this.language = language;
+    }
+
+    public async getLanguage(): Promise<TextMapJsonStruct> {
+        const TextMap = await import(`../../resources/genshin/TextMap/TextMap${this.language}.json`) as TextMapJsonStruct;
+        return TextMap;
+    }
+
+    public async getText(hash: number): Promise<string> {
+        const hashStr = hash.toString();
+        const TextMap = await this.getLanguage();
+        if (TextMap[hashStr]) {
+            return TextMap[hashStr];
         }
-        return "???"
+        return "???";
     }
 
 }
