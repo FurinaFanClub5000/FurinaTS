@@ -19,6 +19,19 @@
         "module": "../slash/profile.ts"
     },
     {
+        "name": "packages",
+        "description": "View current available gi, hsr and zzz packages",
+        "optionsList": [
+            {
+                "name": "launcherid",
+                "description": "Use your own launcher id (Beta purposes)",
+                "type": "string",
+                "required": false
+            }
+        ],
+        "module": "../slash/game.ts"
+    },
+    {
         "name": "lookup",
         "description": "Get information on an item",
         "optionsList": [
