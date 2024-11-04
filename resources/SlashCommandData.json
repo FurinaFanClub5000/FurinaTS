@@ -32,6 +32,19 @@
         "module": "../slash/game.ts"
     },
     {
+        "name": "battle",
+        "description": "Battle someone in a round of Genius Invocation TCG!",
+        "optionsList": [
+            {
+                "name": "user",
+                "description": "The person to battle",
+                "type": "user",
+                "required": true
+            }
+        ],
+        "module": "../slash/tcg.ts"
+    },
+    {
         "name": "lookup",
         "description": "Get information on an item",
         "optionsList": [

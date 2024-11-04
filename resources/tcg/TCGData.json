@@ -1,0 +1,6351 @@
+[
+  {
+    "id": 146,
+    "name": "Player EXP",
+    "icon": "UI_GcgIcon_CardExperience",
+    "release": false,
+    "type": "CardExperience"
+  },
+  {
+    "id": 205,
+    "name": "? ? ?",
+    "icon": "UI_GcgIcon_CardCurrency",
+    "release": false,
+    "type": "CardCurrency"
+  },
+  {
+    "id": 107019,
+    "name": "Blank Dynamic Card",
+    "icon": "UI_GcgIcon_GoldExchange",
+    "release": false,
+    "type": "GoldExchange"
+  },
+  {
+    "id": 107020,
+    "name": "Match Invitation Letter",
+    "icon": "UI_GcgIcon_Invitation",
+    "release": false,
+    "type": "Invitation"
+  },
+  {
+    "id": 107021,
+    "name": "Lucky Coin",
+    "icon": "UI_GcgIcon_CardCurrency",
+    "release": false,
+    "type": "CardCurrency"
+  },
+  {
+    "id": 330000,
+    "name": "Ganyu",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Ganyu",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330001,
+    "name": "Kaeya",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Kaeya",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330002,
+    "name": "Chongyun",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Chongyun",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330003,
+    "name": "Kamisato Ayaka",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Ayaka",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330004,
+    "name": "Xingqiu",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Xingqiu",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330005,
+    "name": "Mona",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Mona",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330006,
+    "name": "Diluc",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Diluc",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330007,
+    "name": "Xiangling",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Xiangling",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330008,
+    "name": "Bennett",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Bennett",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330009,
+    "name": "Amber",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Ambor",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330010,
+    "name": "Yoimiya",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Yoimiya",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330011,
+    "name": "Fischl",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Fischl",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330012,
+    "name": "Razor",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Razor",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330013,
+    "name": "Keqing",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Keqing",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330014,
+    "name": "Sucrose",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Sucrose",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330015,
+    "name": "Jean",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Qin",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330016,
+    "name": "Ningguang",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Ningguang",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330017,
+    "name": "Noelle",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Noel",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330018,
+    "name": "Collei",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Collei",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330019,
+    "name": "Rhodeia of Loch",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Oceanid",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330020,
+    "name": "Fatui Pyro Agent",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Fatuus",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330021,
+    "name": "Maguu Kenki",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Ningyo",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330022,
+    "name": "Stonehide Lawachurl",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Bruterock",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330023,
+    "name": "Diona",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Diona",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330024,
+    "name": "Cyno",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Cyno",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330025,
+    "name": "Barbara",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Barbara",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330026,
+    "name": "Mirror Maiden",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Maidenwater",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330027,
+    "name": "Jadeplume Terrorshroom",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Fungusgrass",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330028,
+    "name": "Eula",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Eula",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330029,
+    "name": "Tartaglia",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Tartaglia",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330030,
+    "name": "Sangonomiya Kokomi",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Kokomi",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330031,
+    "name": "Kamisato Ayato",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Ayato",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330032,
+    "name": "Klee",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Klee",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330033,
+    "name": "Hu Tao",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Hutao",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330034,
+    "name": "Beidou",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Beidou",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330035,
+    "name": "Kujou Sara",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Sara",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330036,
+    "name": "Raiden Shogun",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Shougun",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330037,
+    "name": "Yae Miko",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Yae",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330038,
+    "name": "Venti",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Venti",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330039,
+    "name": "Xiao",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Xiao",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330040,
+    "name": "Zhongli",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Zhongli",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330041,
+    "name": "Albedo",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Albedo",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330042,
+    "name": "Arataki Itto",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Itto",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330043,
+    "name": "Tighnari",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Tighnari",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330044,
+    "name": "Nahida",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Nahida",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330045,
+    "name": "Fatui Cryo Cicin Mage",
+    "icon": "UI_Gcg_CardFace_Char_Monster_FatuusMageice",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330046,
+    "name": "Abyss Lector: Fathomless Flames",
+    "icon": "UI_Gcg_CardFace_Char_Monster_DeaconFire",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330047,
+    "name": "Electro Hypostasis",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330048,
+    "name": "Shenhe",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Shenhe",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330049,
+    "name": "Candace",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Candace",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330050,
+    "name": "Yanfei",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Feiyan",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330051,
+    "name": "Kaedehara Kazuha",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Kazuha",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330052,
+    "name": "Qiqi",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Qiqi",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330053,
+    "name": "Lisa",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Lisa",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330054,
+    "name": "Wanderer",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Wanderer",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330055,
+    "name": "Dehya",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Dehya",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330056,
+    "name": "Yaoyao",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Yaoyao",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330057,
+    "name": "Nilou",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Nilou",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330058,
+    "name": "Dori",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Dori",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330059,
+    "name": "Baizhu",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Baizhuer",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330060,
+    "name": "La Signora",
+    "icon": "UI_Gcg_CardFace_Char_Monster_LaSignora",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330061,
+    "name": "Azhdaha",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Dahaka",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330062,
+    "name": "Layla",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Layla",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330063,
+    "name": "Yelan",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Yelan",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330064,
+    "name": "Lyney",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Liney",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330065,
+    "name": "Lynette",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Linette",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330066,
+    "name": "Gorou",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Gorou",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330067,
+    "name": "Alhaitham",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Alhatham",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330068,
+    "name": "Eremite Scorching Loremaster",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Muscleman",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330069,
+    "name": "Thunder Manifestation",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Raijin",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330070,
+    "name": "Dvalin",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Dvalin",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330071,
+    "name": "Thoma",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Tohma",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330072,
+    "name": "Sayu",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Sayu",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330073,
+    "name": "Cryo Hypostasis",
+    "icon": "UI_Gcg_CardFace_Char_Monster_EffigyIce",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330074,
+    "name": "Millennial Pearl Seahorse",
+    "icon": "UI_Gcg_CardFace_Char_Monster_SeaHorsePrimo",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330075,
+    "name": "Charlotte",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Charlotte",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330076,
+    "name": "Neuvillette",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Neuvillette",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330077,
+    "name": "Kirara",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Momoka",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330078,
+    "name": "Fatui Electro Cicin Mage",
+    "icon": "UI_Gcg_CardFace_Char_Monster_FatuusSummoner",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330079,
+    "name": "Kuki Shinobu",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Shinobu",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330080,
+    "name": "Faruzan",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Faruzan",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330081,
+    "name": "Abyss Herald: Wicked Torrents",
+    "icon": "UI_Gcg_CardFace_Char_Monster_InvokerHeraldWater",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330082,
+    "name": "Emperor of Fire and Iron",
+    "icon": "UI_Gcg_CardFace_Char_Monster_HermitCrabPrimo",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330083,
+    "name": "Wriothesley",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Wriothesley",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330084,
+    "name": "Furina",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Furina",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 3300841,
+    "name": "Seats Sacred and Secular",
+    "icon": "",
+    "release": false,
+    "type": "Modify_Custom"
+  },
+  {
+    "id": 330085,
+    "name": "Xinyan",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Xinyan",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330086,
+    "name": "Yun Jin",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Yunjin",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330087,
+    "name": "Kaveh",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Kaveh",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330088,
+    "name": "All-Devouring Narwhal",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Ptahur",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330089,
+    "name": "Consecrated Scorpion",
+    "icon": "UI_Gcg_CardFace_Char_Monster_ScorpionSacred",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330090,
+    "name": "Consecrated Flying Serpent",
+    "icon": "UI_Gcg_CardFace_Char_Monster_ChrysopeleaSacred",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330091,
+    "name": "Guardian of Apep's Oasis",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Apep",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330092,
+    "name": "Chevreuse",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Chevreuse",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330093,
+    "name": "Navia",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Navia",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330094,
+    "name": "Frost Operative",
+    "icon": "UI_Gcg_CardFace_Char_Monster_EscadronIce",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330095,
+    "name": "Freminet",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Freminet",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330096,
+    "name": "Xianyun",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Liuyun",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330097,
+    "name": "Hydro Hilichurl Rogue",
+    "icon": "UI_Gcg_CardFace_Char_Monster_HilistrayWater",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330098,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Chiori",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 330099,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Char_Monster_InvokerElectric",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330100,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Char_Monster_EremiteGrass",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 330500,
+    "name": "Undivided Heart",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Ganyu",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330501,
+    "name": "Cold-Blooded Strike",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Keaya",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330502,
+    "name": "Steady Breathing",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Chongyun",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330503,
+    "name": "Kanten Senmyou Blessing",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Ayaka",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330504,
+    "name": "The Scent Remained",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Xingqiu",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330505,
+    "name": "Prophecy of Submersion",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Mona",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330506,
+    "name": "Flowing Flame",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Diluc",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330507,
+    "name": "Crossfire",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Xiangling",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330508,
+    "name": "Grand Expectation",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Bennett",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330509,
+    "name": "Bunny Triggered",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Ambor",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330510,
+    "name": "Naganohara Meteor Swarm",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Yoyimiya",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330511,
+    "name": "Stellar Predator",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Fischl",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330512,
+    "name": "Awakening",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Razor",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330513,
+    "name": "Thundering Penance",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Keqing",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330514,
+    "name": "Chaotic Entropy",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Sucrose",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330515,
+    "name": "Lands of Dandelion",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Qin",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330516,
+    "name": "Strategic Reserve",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Ningguang",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330517,
+    "name": "I Got Your Back",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Noel",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330518,
+    "name": "Floral Sidewinder",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Collei",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330519,
+    "name": "Streaming Surge",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Chunshui",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330520,
+    "name": "Paid in Full",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_FatuiPyroAgent",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330521,
+    "name": "Transcendent Automaton",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Ningyo",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330522,
+    "name": "Stonehide Reforged",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Rockbrute",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330523,
+    "name": "Shaken, Not Purred",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Diona",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330524,
+    "name": "Featherfall Judgment",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Cyno",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330525,
+    "name": "Glorious Season",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Barbara",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330526,
+    "name": "Mirror Cage",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Maidenwater",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330527,
+    "name": "Proliferating Spores",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Fungusgrass",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330528,
+    "name": "Wellspring of War-Lust",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Eula",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330529,
+    "name": "Tamakushi Casket",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Kokomi",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330530,
+    "name": "Pounding Surprise",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Klee",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330531,
+    "name": "Lightning Storm",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Beidou",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330532,
+    "name": "Embrace of Winds",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Venti",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330533,
+    "name": "Conqueror of Evil: Guardian Yaksha",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Xiao",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330534,
+    "name": "Dominance of Earth",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Zhongli",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330535,
+    "name": "Keen Sight",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Tighnari",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330536,
+    "name": "Absorbing Prism",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Effigyelectric",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330537,
+    "name": "Sin of Pride",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Sara",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330538,
+    "name": "Kyouka Fuushi",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Ayato",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330539,
+    "name": "Arataki Ichiban",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Itto",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330540,
+    "name": "Mystical Abandon",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Shenhe",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330541,
+    "name": "Abyssal Mayhem: Hydrospout",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Tartaglia",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330542,
+    "name": "Sanguine Rouge",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Hutao",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330543,
+    "name": "Wishes Unnumbered",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Shougun",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330544,
+    "name": "The Shrine's Sacred Shade",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Yae",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330545,
+    "name": "Descent of Divinity",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Albedo",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330546,
+    "name": "The Seed of Stored Knowledge",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Tighnari",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330547,
+    "name": "Cicin's Cold Glare",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_MageIce",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330548,
+    "name": "Embers Rekindled",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_DeaconFire",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330549,
+    "name": "The Overflow",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Candace",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330550,
+    "name": "Right of Final Interpretation",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Feiyan",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330551,
+    "name": "Poetics of Fuubutsu",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Kazuha",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330552,
+    "name": "Rite of Resurrection",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Qiqi",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330553,
+    "name": "Pulsating Witch",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Lisa",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330554,
+    "name": "Stalwart and True",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Dehya",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330555,
+    "name": "Gales of Reverie",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Wanderer",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330556,
+    "name": "Beneficent",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Yaoyao",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330557,
+    "name": "The Starry Skies Their Flowers Rain",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Nilou",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330558,
+    "name": "Discretionary Supplement",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Dori",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330559,
+    "name": "All Things Are of the Earth",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Baizhuer",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330560,
+    "name": "Light's Remit",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Layla",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330561,
+    "name": "Turn Control",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Yelan",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330562,
+    "name": "Conclusive Ovation",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Liney",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330563,
+    "name": "A Cold Blade Like a Shadow",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Linette",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330564,
+    "name": "Rushing Hound: Swift as the Wind",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Gorou",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330565,
+    "name": "Structuration",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Alhatham",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330566,
+    "name": "Pain for Pain",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_LaSignora",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330567,
+    "name": "Scorpocalypse",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Muscleman",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330568,
+    "name": "Grieving Echo",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Raijin",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330569,
+    "name": "Rending Vortex",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Dvalin",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330570,
+    "name": "Lunar Cycles Unending",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Dahaka",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330571,
+    "name": "A Subordinate's Skills",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Thoma",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330572,
+    "name": "Skiving: New and Improved",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Sayu",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 330573,
+    "name": "Sternfrost Prism",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_EffigyIce",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330574,
+    "name": "Pearl Solidification",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_SeaHorsePrimo",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330575,
+    "name": "A Summation of Interest",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Charlotte",
+    "release": false,
+    "type": "Card_Talent"
+  },
+  {
+    "id": 330576,
+    "name": "Heir to the Ancient Sea's Authority",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Neuvillette",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330577,
+    "name": "Countless Sights to See",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Momoka",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330578,
+    "name": "Electro Cicin's Flicker",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_FatuusSummoner",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330579,
+    "name": "To Ward Weakness",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Shinobu",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330580,
+    "name": "The Wondrous Path of Truth",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Faruzan",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330581,
+    "name": "Surging Undercurrent",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_InvokerHeraldWater",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330582,
+    "name": "Molten Mail",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_HermitCrabPrimo",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330583,
+    "name": "Terror for the Evildoers",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Wriothesley",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330584,
+    "name": "\"Hear Me \u2014 Let Us Raise the Chalice of Love!\"",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Furina",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330585,
+    "name": "Rockin' in a Flaming World",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Xinyan",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330586,
+    "name": "Decorous Harmony",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Yunjin",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330587,
+    "name": "The Art of Budgeting",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Kaveh",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330588,
+    "name": "Lightless Feeding",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Ptahur",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330589,
+    "name": "Fatal Fulmination",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_ScorpionSacred",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330590,
+    "name": "Deathly Cyclone",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_ChrysopeleaSacred",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330591,
+    "name": "A Thousand Young",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Apep",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330592,
+    "name": "Vanguard's Coordinated Tactics",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Chevreuse",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330593,
+    "name": "Undisclosed Distribution Channels",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Navia",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330594,
+    "name": "Rimeflow Rapier",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_EscadronIce",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330595,
+    "name": "Moment of Waking and Resolve",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Freminet",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330596,
+    "name": "They Call Her Cloud Retainer",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Liuyun",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330597,
+    "name": "Hydrodart Slime",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_HilistrayWater",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330598,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Chiori",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330599,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_InvokerElectric",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 330600,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_EremiteGrass",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 331000,
+    "name": "Magic Guide",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_CatalystIntro",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331001,
+    "name": "Sacrificial Fragments",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_CatalystFossil",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331002,
+    "name": "Skyward Atlas",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_CatalystDvalin",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331003,
+    "name": "Raven Bow",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_BowCrowfeather",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331004,
+    "name": "Sacrificial Bow",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_BowFossil",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331005,
+    "name": "Skyward Harp",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_BowDvalin",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331006,
+    "name": "White Iron Greatsword",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreTin",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331007,
+    "name": "Sacrificial Greatsword",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Fossil",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331008,
+    "name": "Wolf's Gravestone",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreWolfmound",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331009,
+    "name": "White Tassel",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_PoleRuby",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331010,
+    "name": "Lithic Spear",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_PoleLapis",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331011,
+    "name": "Skyward Spine",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_PoleDvalin",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331012,
+    "name": "Traveler's Handy Sword",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_SwordDarker",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331013,
+    "name": "Sacrificial Sword",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_SwordFossil",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331014,
+    "name": "Aquila Favonia",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_SwordFalcon",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331015,
+    "name": "Adventurer's Bandana",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_MaoxianjiaDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331016,
+    "name": "Lucky Dog's Silver Circlet",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_XingyunerDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331017,
+    "name": "Traveling Doctor's Handkerchief",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_YouyiDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331018,
+    "name": "Gambler's Earrings",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_DutuDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331019,
+    "name": "Instructor's Cap",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_JiaoguanDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331020,
+    "name": "Exile's Circlet",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_LiufangzheDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331021,
+    "name": "Broken Rime's Echo",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_BinDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331022,
+    "name": "Blizzard Strayer",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_BinTaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331023,
+    "name": "Wine-Stained Tricorne",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Shuidanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331024,
+    "name": "Heart of Depth",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Shuitaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331025,
+    "name": "Witch's Scorching Hat",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Monvdanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331026,
+    "name": "Crimson Witch of Flames",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Monvtaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331027,
+    "name": "Thunder Summoner's Crown",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Leidanjia",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331028,
+    "name": "Thundering Fury",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Leitaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331029,
+    "name": "Viridescent Venerer's Diadem",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_FengDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331030,
+    "name": "Viridescent Venerer",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_FengTaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331031,
+    "name": "Mask of Solitude Basalt",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_YanDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331032,
+    "name": "Archaic Petra",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_YanTaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331033,
+    "name": "Laurel Coronet",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_CaoDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331034,
+    "name": "Deepwood Memories",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_CaoTaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331035,
+    "name": "Ornate Kabuto",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Huashi",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331036,
+    "name": "General's Ancient Helm",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Jiangshuai",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331037,
+    "name": "Amos' Bow",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Amos",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331038,
+    "name": "A Thousand Floating Dreams",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Ayus",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331039,
+    "name": "Elegy for the End",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Widsith",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331040,
+    "name": "Skyward Pride",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreDvalin",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331041,
+    "name": "The Bell",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Troupe",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331042,
+    "name": "Vortex Vanquisher",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Kunwu",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331043,
+    "name": "Engulfing Lightning",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Narukami",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331044,
+    "name": "Skyward Blade",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_SwordDvalin",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331045,
+    "name": "Favonius Sword",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Xifengjian",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331046,
+    "name": "Emblem of Severed Fate",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_JueyuanTaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331047,
+    "name": "Tenacity of the Millelith",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_QianyanTaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331048,
+    "name": "Thundering Poise",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_ChenshaDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331049,
+    "name": "Vermillion Hereafter",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_ChenshaTaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331050,
+    "name": "Capricious Visage",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Zhuiyidanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331051,
+    "name": "Shimenawa's Reminiscence",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_ZhuiyiTaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331052,
+    "name": "Fruit of Fulfillment",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Arakalari",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331053,
+    "name": "King's Squire",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Wangxia",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331054,
+    "name": "Moonpiercer",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Guanyue",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331055,
+    "name": "Crown of Watatsumi",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_HaiRanDanJian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331056,
+    "name": "Ocean-Hued Clam",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Hairantaozhuang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331057,
+    "name": "Shadow of the Sand King",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Chiwangdanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331058,
+    "name": "Lost Prayer to the Sacred Winds",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Yuandian",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331059,
+    "name": "Tulaytullah's Remembrance",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Tulaidu",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331060,
+    "name": "Beacon of the Reed Sea",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Xinbiao",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331061,
+    "name": "Primordial Jade Winged-Spear",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Hepuyuan",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331062,
+    "name": "Light of Foliar Incision",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Caiye",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331063,
+    "name": "Gilded Dreams",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Chiwangtao",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331064,
+    "name": "Flowing Rings",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Yuxiang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331065,
+    "name": "Echoes of an Offering",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Yuxiangtao",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331066,
+    "name": "Heart of Khvarena's Brilliance",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Huashen",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331067,
+    "name": "Vourukasha's Glow",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Huashentao",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331068,
+    "name": "Sapwood Blade",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Yuanmu",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331069,
+    "name": "Veteran's Visage",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_LaobinDanjian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331070,
+    "name": "Tome of the Eternal Flow",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Wanshiliuyongdadian",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331071,
+    "name": "Golden Troupe's Reward",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_HuangjinjutuanXiaojian",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331072,
+    "name": "Rightful Reward",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Gongyichoubao",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331073,
+    "name": "Amethyst Crown",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Zijinghuaguan",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331074,
+    "name": "Cashflow Supervision",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Jinliujiandu",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331075,
+    "name": "End of the Line",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Jieze",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331076,
+    "name": "Forest Regalia",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Shenlinwangqi",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331077,
+    "name": "Splendor of Tranquil Waters",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Jinshuiliuyong",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331078,
+    "name": "Marechaussee Hunter",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_ZhuYingDa",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331079,
+    "name": "Golden Troupe",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Huangjinjutuanda",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331080,
+    "name": "Flower of Paradise Lost",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_ZijinghuaguanDa",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331081,
+    "name": "\"Ultimate Overlord's Mega Magic Sword\"",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_BaWangJian",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331082,
+    "name": "Prospector's Drill",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_KanTanQiang",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331083,
+    "name": "Gladiator's Triumphus",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_JiaoDouShiXiao",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331084,
+    "name": "Xenochromatic Hunter's Ray",
+    "icon": "UI_Gcg_CardFace_Modify_Vehicle_LiedaoYao",
+    "release": false,
+    "type": "Modify_Vehicle"
+  },
+  {
+    "id": 331085,
+    "name": "Yumkasaurus",
+    "icon": "UI_Gcg_CardFace_Modify_Vehicle_GouzhuaLong",
+    "release": false,
+    "type": "Modify_Vehicle"
+  },
+  {
+    "id": 331086,
+    "name": "Koholasaurus",
+    "icon": "UI_Gcg_CardFace_Modify_Vehicle_QiyouLong",
+    "release": false,
+    "type": "Modify_Vehicle"
+  },
+  {
+    "id": 331087,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_DongliJu",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 331088,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_DadiYuezhang",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 331089,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Vehicle_JifengLong",
+    "release": false,
+    "type": "Modify_Vehicle"
+  },
+  {
+    "id": 332000,
+    "name": "Liyue Harbor Wharf",
+    "icon": "UI_Gcg_CardFace_Assist_Location_LiyueHarbor",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332001,
+    "name": "Knights of Favonius Library",
+    "icon": "UI_Gcg_CardFace_Assist_Location_MdLibrary",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332002,
+    "name": "Jade Chamber",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Qunyuge",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332003,
+    "name": "Dawn Winery",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Chenxijiuzhuang",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332004,
+    "name": "Wangshu Inn",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Wangshukezhan",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332005,
+    "name": "Favonius Cathedral",
+    "icon": "UI_Gcg_CardFace_Assist_Location_FavoniusChurch",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332006,
+    "name": "Paimon",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Paimon",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332007,
+    "name": "Katheryne",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Katheryne",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332008,
+    "name": "Timaeus",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Timaeus",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332009,
+    "name": "Wagner",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Wagner",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332010,
+    "name": "Chef Mao",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Maoshifu",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332011,
+    "name": "Tubby",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_AYuan",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332012,
+    "name": "Timmie",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Timmy",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332013,
+    "name": "Liben",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_LiBen",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332014,
+    "name": "Chang the Ninth",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Changjiuye",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332015,
+    "name": "Ellin",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Aileen",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332016,
+    "name": "Iron Tongue Tian",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Tiantiezui",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332017,
+    "name": "Liu Su",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Liusu",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332018,
+    "name": "Parametric Transformer",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_ParametricTransformer",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 332019,
+    "name": "NRE",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_NREMenu",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 332020,
+    "name": "Grand Narukami Shrine",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Mingshendashe",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332021,
+    "name": "Tenshukaku",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Tianshou",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332022,
+    "name": "Sangonomiya Shrine",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Shanhu",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332023,
+    "name": "Sumeru City",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Xumi",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332024,
+    "name": "Vanarana",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Hengna",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332025,
+    "name": "Chinju Forest",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Zhengshoui",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332026,
+    "name": "Hanachirusato",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Huasanli",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332027,
+    "name": "Kid Kujirai",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Yingjin",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332028,
+    "name": "Xudong",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Xudong",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332029,
+    "name": "Dunyarzad",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Dina",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332030,
+    "name": "Rana",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Lana",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332031,
+    "name": "Red Feather Fan",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_Hongye",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 332032,
+    "name": "Treasure-Seeking Seelie",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_Xunbao",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 332033,
+    "name": "Master Zhang",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Laozhang",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332034,
+    "name": "Golden House",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Huangjinwu",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332035,
+    "name": "Setaria",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Saileita",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332036,
+    "name": "Gandharva Ville",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Gandharva",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332037,
+    "name": "Yayoi Nanatsuki",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Yayoyi",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332038,
+    "name": "Stormterror's Lair",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Fenglong",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332039,
+    "name": "Weeping Willow of the Lake",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Chuiliu",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332040,
+    "name": "Opera Epiclese",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Gejuyuan",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332041,
+    "name": "Mamere",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Mamere",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332042,
+    "name": "Seed Dispensary",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_Seedbox",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 332043,
+    "name": "Memento Lens",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_Mirror",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 332044,
+    "name": "Jeht",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Jeht",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332045,
+    "name": "Silver and Melus",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Silver",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332046,
+    "name": "Fortress of Meropide",
+    "icon": "UI_Gcg_CardFace_Assist_Location_BideBao",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332047,
+    "name": "Lumenstone Adjuvant",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_Liumingshi",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 332048,
+    "name": "Seirai Island",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Qinglaidao",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332049,
+    "name": "Taroumaru",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Taroumaru",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332050,
+    "name": "The White Glove and the Fisherman",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Baishoutao",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332051,
+    "name": "The Mausoleum of King Deshret",
+    "icon": "UI_Gcg_CardFace_Assist_Location_ChiWangLin",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332052,
+    "name": "Central Laboratory Ruins",
+    "icon": "UI_Gcg_CardFace_Assist_Location_FontaineSci",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332053,
+    "name": "Sir Arthur",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_MrArthur",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332054,
+    "name": "Kusava",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_KuSheHeng",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 332055,
+    "name": "Serene",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Seling",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332056,
+    "name": "Stadium of the Sacred Flame",
+    "icon": "UI_Gcg_CardFace_Assist_Location_JingjiChang",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 332057,
+    "name": "Atea",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_AimiTa",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 332058,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Assist_Location_DouWuTai",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 333000,
+    "name": "Elemental Resonance: Woven Ice",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Ice",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 333001,
+    "name": "Elemental Resonance: Shattering Ice",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Ice",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 333002,
+    "name": "Elemental Resonance: Woven Waters",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Water",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 333003,
+    "name": "Elemental Resonance: Soothing Water",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Water",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 333004,
+    "name": "Elemental Resonance: Woven Flames",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Fire",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 333005,
+    "name": "Elemental Resonance: Fervent Flames",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Fire",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 333006,
+    "name": "Elemental Resonance: Woven Thunder",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Electric",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 333007,
+    "name": "Elemental Resonance: High Voltage",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Electric",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 333008,
+    "name": "Elemental Resonance: Woven Winds",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Wind",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 333009,
+    "name": "Elemental Resonance: Impetuous Winds",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Wind",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 333010,
+    "name": "Elemental Resonance: Woven Stone",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Rock",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 333011,
+    "name": "Elemental Resonance: Enduring Rock",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Rock",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 333012,
+    "name": "Elemental Resonance: Woven Weeds",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Grass",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 333013,
+    "name": "Elemental Resonance: Sprawling Greenery",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Grass",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 333014,
+    "name": "The Bestest Travel Companion!",
+    "icon": "UI_Gcg_CardFace_Event_Event_BestAibo",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333015,
+    "name": "Changing Shifts",
+    "icon": "UI_Gcg_CardFace_Event_Event_Huanbanshijian",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333016,
+    "name": "Toss-Up",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yizhiqiankun",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333017,
+    "name": "Strategize",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yunchouweiwo",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333018,
+    "name": "I Haven't Lost Yet!",
+    "icon": "UI_Gcg_CardFace_Event_Event_Bendayehaimeiyoushu",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333019,
+    "name": "Leave it to Me!",
+    "icon": "UI_Gcg_CardFace_Event_Event_Jiaogeiwoba",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333020,
+    "name": "When the Crane Returned",
+    "icon": "UI_Gcg_CardFace_Event_Event_Heguizhishi",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333021,
+    "name": "Starsigns",
+    "icon": "UI_Gcg_CardFace_Event_Event_Xingtian",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333022,
+    "name": "Calx's Arts",
+    "icon": "UI_Gcg_CardFace_Event_Event_Baiezhishu",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333023,
+    "name": "Master of Weaponry",
+    "icon": "UI_Gcg_CardFace_Event_Event_Zhuwujingtong",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333024,
+    "name": "Blessing of the Divine Relic's Installation",
+    "icon": "UI_Gcg_CardFace_Event_Event_Shenbaoqiangongzhuci",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333025,
+    "name": "Quick Knit",
+    "icon": "UI_Gcg_CardFace_Event_Event_Kuaikuaifengbushu",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333026,
+    "name": "Send Off",
+    "icon": "UI_Gcg_CardFace_Event_Event_Songniyicheng",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333027,
+    "name": "Guardian's Oath",
+    "icon": "UI_Gcg_CardFace_Event_Event_Hufazhishi",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333028,
+    "name": "Abyssal Summons",
+    "icon": "UI_Gcg_CardFace_Event_Event_Abyssdehuhuan",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333029,
+    "name": "Jueyun Guoba",
+    "icon": "UI_Gcg_CardFace_Event_Food_Jueyunguoba",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333030,
+    "name": "Adeptus' Temptation",
+    "icon": "UI_Gcg_CardFace_Event_Food_XTQ",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333031,
+    "name": "Lotus Flower Crisp",
+    "icon": "UI_Gcg_CardFace_Event_Food_Lianhuasu",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333032,
+    "name": "Northern Smoked Chicken",
+    "icon": "UI_Gcg_CardFace_Event_Food_Beidiyanxunji",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333033,
+    "name": "Sweet Madame",
+    "icon": "UI_Gcg_CardFace_Event_Food_Huaniangji",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333034,
+    "name": "Mondstadt Hash Brown",
+    "icon": "UI_Gcg_CardFace_Event_Food_Tudoubin",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333035,
+    "name": "Mushroom Pizza",
+    "icon": "UI_Gcg_CardFace_Event_Food_Kaomogupisa",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333036,
+    "name": "Minty Meat Rolls",
+    "icon": "UI_Gcg_CardFace_Event_Food_Bohejuan",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333037,
+    "name": "Wind and Freedom",
+    "icon": "UI_Gcg_CardFace_Event_Event_Fengyuziyou",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333038,
+    "name": "Stone and Contracts",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yanyuqiyue",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333039,
+    "name": "Thunder and Eternity",
+    "icon": "UI_Gcg_CardFace_Event_Event_Leiyuyongheng",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333040,
+    "name": "Nature and Wisdom",
+    "icon": "UI_Gcg_CardFace_Event_Event_Caoyuzhihui",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333041,
+    "name": "Fatui Conspiracy",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yurenzhongi",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333042,
+    "name": "Plunging Strike",
+    "icon": "UI_Gcg_CardFace_Event_Event_Xialuo",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333043,
+    "name": "Heavy Strike",
+    "icon": "UI_Gcg_CardFace_Event_Event_Zhonggongji",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333044,
+    "name": "The Legend of Vennessa",
+    "icon": "UI_Gcg_CardFace_Event_Event_Wennisha",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333045,
+    "name": "Friendship Eternal",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yongyuandeyouyi",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333046,
+    "name": "Teyvat Fried Egg",
+    "icon": "UI_Gcg_CardFace_Event_Food_Jiandan",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333047,
+    "name": "Sashimi Platter",
+    "icon": "UI_Gcg_CardFace_Event_Food_Cishen",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333048,
+    "name": "Tandoori Roast Chicken",
+    "icon": "UI_Gcg_CardFace_Event_Food_Tangduer",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333049,
+    "name": "Butter Crab",
+    "icon": "UI_Gcg_CardFace_Event_Food_Huangyou",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333050,
+    "name": "Ancient Courtyard",
+    "icon": "UI_Gcg_CardFace_Event_Event_Jiangjun",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333051,
+    "name": "Covenant of Rock",
+    "icon": "UI_Gcg_CardFace_Event_Event_Chuanglong",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333052,
+    "name": "Rhythm of the Great Dream",
+    "icon": "UI_Gcg_CardFace_Event_Event_Dameng",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333053,
+    "name": "Joyous Celebration",
+    "icon": "UI_Gcg_CardFace_Event_Event_Qingdian",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333054,
+    "name": "Where Is the Unseen Razor?",
+    "icon": "UI_Gcg_CardFace_Event_Event_Cangfen",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333055,
+    "name": "Fresh Wind of Freedom",
+    "icon": "UI_Gcg_CardFace_Event_Event_Xinfeng",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333056,
+    "name": "Pankration!",
+    "icon": "UI_Gcg_CardFace_Event_Event_Heiquan",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333057,
+    "name": "In Every House a Stove",
+    "icon": "UI_Gcg_CardFace_Event_Event_Guobahelp",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333058,
+    "name": "Lyresong",
+    "icon": "UI_Gcg_CardFace_Event_Event_Wangfu",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333059,
+    "name": "Passing of Judgment",
+    "icon": "UI_Gcg_CardFace_Event_Event_Xuanpanyouzui",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333060,
+    "name": "The Boar Princess",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yezhu",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333061,
+    "name": "Falls and Fortune",
+    "icon": "UI_Gcg_CardFace_Event_Event_Tanta",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333062,
+    "name": "Flickering Four-Leaf Sigil",
+    "icon": "UI_Gcg_CardFace_Event_Event_Siyeyin",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333063,
+    "name": "Fish and Chips",
+    "icon": "UI_Gcg_CardFace_Event_Food_Chips",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333064,
+    "name": "Machine Assembly Line",
+    "icon": "UI_Gcg_CardFace_Event_Event_Fatiaoji",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333065,
+    "name": "Sunyata Flower",
+    "icon": "UI_Gcg_CardFace_Event_Event_Ganluhua",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333066,
+    "name": "Matsutake Meat Rolls",
+    "icon": "UI_Gcg_CardFace_Event_Food_Matsutake",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333067,
+    "name": "Day of Resistance: Moment of Shattered Dreams",
+    "icon": "UI_Gcg_CardFace_Event_Event_Fankang",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333068,
+    "name": "Controlled Directional Blast",
+    "icon": "UI_Gcg_CardFace_Event_Event_Kexueyuan",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333069,
+    "name": "Underwater Treasure Hunt",
+    "icon": "UI_Gcg_CardFace_Event_Event_Xunbao",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333070,
+    "name": "Rainbow Macarons",
+    "icon": "UI_Gcg_CardFace_Event_Food_Macarons",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 333071,
+    "name": "Vicious Ancient Battle",
+    "icon": "UI_Gcg_CardFace_Event_Event_LeiShenZhan",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333072,
+    "name": "Water and Justice",
+    "icon": "UI_Gcg_CardFace_Event_Event_WaterJustice",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333073,
+    "name": "Countdown to the Show: 3",
+    "icon": "UI_Gcg_CardFace_Event_Event_MagicCount3",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333074,
+    "name": "\"I'd Rather Lose Money Myself...\"",
+    "icon": "UI_Gcg_CardFace_Event_Event_ZhuanQian",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333075,
+    "name": "Tada!",
+    "icon": "UI_Gcg_CardFace_Event_Event_DengDeng",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333076,
+    "name": "Saurian Dining Buddies",
+    "icon": "UI_Gcg_CardFace_Event_Event_FeedDrogen",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333077,
+    "name": "Edict of Absolution",
+    "icon": "UI_Gcg_CardFace_Event_Event_Wuzui",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333078,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Event_Event_Caxie",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 333079,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Event_Food_LonglongCookie",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 334000,
+    "name": "Ganyu",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Ganyu_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334001,
+    "name": "Kaeya",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Kaeya_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334002,
+    "name": "Chongyun",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Chongyun_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334003,
+    "name": "Kamisato Ayaka",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Ayaka_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334004,
+    "name": "Xingqiu",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Xingqiu_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334005,
+    "name": "Mona",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Mona_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334006,
+    "name": "Diluc",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Diluc_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334007,
+    "name": "Xiangling",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Xiangling_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334008,
+    "name": "Bennett",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Bennett_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334009,
+    "name": "Amber",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Ambor_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334010,
+    "name": "Yoimiya",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Yoimiya_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334011,
+    "name": "Fischl",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Fischl_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334012,
+    "name": "Razor",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Razor_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334013,
+    "name": "Keqing",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Keqing_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334014,
+    "name": "Sucrose",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Sucrose_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334015,
+    "name": "Jean",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Qin_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334016,
+    "name": "Ningguang",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Ningguang_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334017,
+    "name": "Noelle",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Noel_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334018,
+    "name": "Collei",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Collei_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334019,
+    "name": "Rhodeia of Loch",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Oceanid_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334020,
+    "name": "Fatui Pyro Agent",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Fatuus_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334021,
+    "name": "Maguu Kenki",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Ningyo_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334022,
+    "name": "Stonehide Lawachurl",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Bruterock_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334023,
+    "name": "Diona",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Diona_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334024,
+    "name": "Cyno",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Cyno_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334025,
+    "name": "Barbara",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Barbara_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334026,
+    "name": "Mirror Maiden",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Maidenwater_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334027,
+    "name": "Jadeplume Terrorshroom",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334028,
+    "name": "Beidou",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Beidou_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334029,
+    "name": "Klee",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Klee_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334030,
+    "name": "Eula",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Eula_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334031,
+    "name": "Sangonomiya Kokomi",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Kokomi_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334032,
+    "name": "Kujou Sara",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Sara_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334033,
+    "name": "Kamisato Ayato",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Ayato_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334034,
+    "name": "Arataki Itto",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Itto_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334035,
+    "name": "Tighnari",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Tighnari_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334036,
+    "name": "Tartaglia",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Tartaglia_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334037,
+    "name": "Hu Tao",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Hutao_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334038,
+    "name": "Raiden Shogun",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Shougun_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334039,
+    "name": "Yae Miko",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Yae_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334040,
+    "name": "Venti",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Venti_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334041,
+    "name": "Xiao",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Xiao_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334042,
+    "name": "Zhongli",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Zhongli_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334043,
+    "name": "Albedo",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Albedo_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334044,
+    "name": "Nahida",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Nahida_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334045,
+    "name": "Fatui Cryo Cicin Mage",
+    "icon": "UI_Gcg_CardFace_Char_Monster_FatuusMageice_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334046,
+    "name": "Abyss Lector: Fathomless Flames",
+    "icon": "UI_Gcg_CardFace_Char_Monster_DeaconFire_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334047,
+    "name": "Electro Hypostasis",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334048,
+    "name": "Shenhe",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Shenhe_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334049,
+    "name": "Candace",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Candace_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334050,
+    "name": "Yanfei",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Feiyan_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334051,
+    "name": "Kaedehara Kazuha",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Kazuha_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334052,
+    "name": "Qiqi",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Qiqi_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334053,
+    "name": "Lisa",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Lisa_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334054,
+    "name": "Dehya",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Dehya_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334055,
+    "name": "Wanderer",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Wanderer_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334056,
+    "name": "Yaoyao",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Yaoyao_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334057,
+    "name": "Nilou",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Nilou_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334058,
+    "name": "Dori",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Dori_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334059,
+    "name": "Baizhu",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Baizhuer_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334060,
+    "name": "La Signora",
+    "icon": "UI_Gcg_CardFace_Char_Monster_LaSignora_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334061,
+    "name": "Azhdaha",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Dahaka_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334062,
+    "name": "Layla",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Layla_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334063,
+    "name": "Yelan",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Yelan_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334064,
+    "name": "Lyney",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Liney_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334065,
+    "name": "Lynette",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Linette_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334066,
+    "name": "Gorou",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Gorou_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334067,
+    "name": "Alhaitham",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Alhatham_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334068,
+    "name": "Eremite Scorching Loremaster",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Muscleman_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334069,
+    "name": "Thunder Manifestation",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Raijin_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334070,
+    "name": "Dvalin",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Dvalin_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334071,
+    "name": "Thoma",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Tohma_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334072,
+    "name": "Sayu",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Sayu_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334073,
+    "name": "Cryo Hypostasis",
+    "icon": "UI_Gcg_CardFace_Char_Monster_EffigyIce_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334074,
+    "name": "Millennial Pearl Seahorse",
+    "icon": "UI_Gcg_CardFace_Char_Monster_SeaHorsePrimo_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334075,
+    "name": "Charlotte",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Charlotte_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334076,
+    "name": "Neuvillette",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Neuvillette_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334077,
+    "name": "Kirara",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Momoka_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334078,
+    "name": "Fatui Electro Cicin Mage",
+    "icon": "UI_Gcg_CardFace_Char_Monster_FatuusSummoner_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334079,
+    "name": "Kuki Shinobu",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Shinobu_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334080,
+    "name": "Faruzan",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Faruzan_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334081,
+    "name": "Abyss Herald: Wicked Torrents",
+    "icon": "UI_Gcg_CardFace_Char_Monster_InvokerHeraldWater_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334082,
+    "name": "Emperor of Fire and Iron",
+    "icon": "UI_Gcg_CardFace_Char_Monster_HermitCrabPrimo_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334083,
+    "name": "Wriothesley",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Wriothesley_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334084,
+    "name": "Furina",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Furina_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334085,
+    "name": "Xinyan",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Xinyan_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334086,
+    "name": "Yun Jin",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Yunjin_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334087,
+    "name": "Kaveh",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Kaveh_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334088,
+    "name": "All-Devouring Narwhal",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Ptahur_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334089,
+    "name": "Consecrated Scorpion",
+    "icon": "UI_Gcg_CardFace_Char_Monster_ScorpionSacred_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334090,
+    "name": "Consecrated Flying Serpent",
+    "icon": "UI_Gcg_CardFace_Char_Monster_ChrysopeleaSacred_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334091,
+    "name": "Guardian of Apep's Oasis",
+    "icon": "UI_Gcg_CardFace_Char_Monster_Apep_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334092,
+    "name": "Chevreuse",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Chevreuse_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334093,
+    "name": "Navia",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Navia_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334094,
+    "name": "Frost Operative",
+    "icon": "UI_Gcg_CardFace_Char_Monster_EscadronIce_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334095,
+    "name": "Freminet",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Freminet_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334096,
+    "name": "Xianyun",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Liuyun_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334097,
+    "name": "Hydro Hilichurl Rogue",
+    "icon": "UI_Gcg_CardFace_Char_Monster_HilistrayWater_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334098,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Char_Avatar_Chiori_Golden",
+    "release": false,
+    "type": "Card_Avatar"
+  },
+  {
+    "id": 334099,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Char_Monster_InvokerElectric_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334100,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Char_Monster_EremiteGrass_Golden",
+    "release": false,
+    "type": "Card_Monster"
+  },
+  {
+    "id": 334500,
+    "name": "Undivided Heart",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Ganyu_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334501,
+    "name": "Cold-Blooded Strike",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Keaya_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334502,
+    "name": "Steady Breathing",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Chongyun_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334503,
+    "name": "Kanten Senmyou Blessing",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Ayaka_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334504,
+    "name": "The Scent Remained",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Xingqiu_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334505,
+    "name": "Prophecy of Submersion",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Mona_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334506,
+    "name": "Flowing Flame",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Diluc_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334507,
+    "name": "Crossfire",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Xiangling_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334508,
+    "name": "Grand Expectation",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Bennett_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334509,
+    "name": "Bunny Triggered",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Ambor_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334510,
+    "name": "Naganohara Meteor Swarm",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Yoyimiya_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334511,
+    "name": "Stellar Predator",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Fischl_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334512,
+    "name": "Awakening",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Razor_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334513,
+    "name": "Thundering Penance",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Keqing_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334514,
+    "name": "Chaotic Entropy",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Sucrose_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334515,
+    "name": "Lands of Dandelion",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Qin_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334516,
+    "name": "Strategic Reserve",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Ningguang_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334517,
+    "name": "I Got Your Back",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Noel_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334518,
+    "name": "Floral Sidewinder",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Collei_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334519,
+    "name": "Streaming Surge",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Chunshui_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334520,
+    "name": "Paid in Full",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_FatuiPyroAgent_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334521,
+    "name": "Transcendent Automaton",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Ningyo_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334522,
+    "name": "Stonehide Reforged",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Rockbrute_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334523,
+    "name": "Shaken, Not Purred",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Diona_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334524,
+    "name": "Featherfall Judgment",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Cyno_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334525,
+    "name": "Glorious Season",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Barbara_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334526,
+    "name": "Mirror Cage",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Maidenwater_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334527,
+    "name": "Proliferating Spores",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Fungusgrass_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334528,
+    "name": "Lightning Storm",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Beidou_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334529,
+    "name": "Pounding Surprise",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Klee_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334530,
+    "name": "Wellspring of War-Lust",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Eula_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334531,
+    "name": "Tamakushi Casket",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Kokomi_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334532,
+    "name": "Sin of Pride",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Sara_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334533,
+    "name": "Kyouka Fuushi",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Ayato_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334534,
+    "name": "Arataki Ichiban",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Itto_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334535,
+    "name": "Keen Sight",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Tighnari_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334536,
+    "name": "Embrace of Winds",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Venti_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334537,
+    "name": "Conqueror of Evil: Guardian Yaksha",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Xiao_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334538,
+    "name": "Dominance of Earth",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Zhongli_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334539,
+    "name": "Absorbing Prism",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Effigyelectric_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334540,
+    "name": "Mystical Abandon",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Shenhe_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334541,
+    "name": "Abyssal Mayhem: Hydrospout",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Tartaglia_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334542,
+    "name": "Sanguine Rouge",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Hutao_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334543,
+    "name": "Wishes Unnumbered",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Shougun_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334544,
+    "name": "The Shrine's Sacred Shade",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Yae_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334545,
+    "name": "Descent of Divinity",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Albedo_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334546,
+    "name": "The Seed of Stored Knowledge",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Tighnari_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334547,
+    "name": "Cicin's Cold Glare",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_MageIce_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334548,
+    "name": "Embers Rekindled",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_DeaconFire_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334549,
+    "name": "The Overflow",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Candace_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334550,
+    "name": "Right of Final Interpretation",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Feiyan_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334551,
+    "name": "Poetics of Fuubutsu",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Kazuha_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334552,
+    "name": "Rite of Resurrection",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Qiqi_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334553,
+    "name": "Pulsating Witch",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Lisa_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334554,
+    "name": "Stalwart and True",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Dehya_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334555,
+    "name": "Gales of Reverie",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Wanderer_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334556,
+    "name": "Beneficent",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Yaoyao_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334557,
+    "name": "The Starry Skies Their Flowers Rain",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Nilou_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334558,
+    "name": "Discretionary Supplement",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Dori_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334559,
+    "name": "All Things Are of the Earth",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Baizhuer_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334560,
+    "name": "Light's Remit",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Layla_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334561,
+    "name": "Turn Control",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Yelan_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334562,
+    "name": "Conclusive Ovation",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Liney_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334563,
+    "name": "A Cold Blade Like a Shadow",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Linette_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334564,
+    "name": "Rushing Hound: Swift as the Wind",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Gorou_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334565,
+    "name": "Structuration",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Alhatham_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334566,
+    "name": "Pain for Pain",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_LaSignora_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334567,
+    "name": "Scorpocalypse",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Muscleman_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334568,
+    "name": "Grieving Echo",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Raijin_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334569,
+    "name": "Rending Vortex",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Dvalin_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334570,
+    "name": "Lunar Cycles Unending",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Dahaka_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334571,
+    "name": "A Subordinate's Skills",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Thoma_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334572,
+    "name": "Skiving: New and Improved",
+    "icon": "UI_Gcg_CardFace_Modify_Constellation_Sayu_Golden",
+    "release": false,
+    "type": "Modify_Constellation"
+  },
+  {
+    "id": 334573,
+    "name": "Sternfrost Prism",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_EffigyIce_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334574,
+    "name": "Pearl Solidification",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_SeaHorsePrimo_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334575,
+    "name": "A Summation of Interest",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Charlotte_Golden",
+    "release": false,
+    "type": "Card_Talent"
+  },
+  {
+    "id": 334576,
+    "name": "Heir to the Ancient Sea's Authority",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Neuvillette_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334577,
+    "name": "Countless Sights to See",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Momoka_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334578,
+    "name": "Electro Cicin's Flicker",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_FatuusSummoner_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334579,
+    "name": "To Ward Weakness",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Shinobu_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334580,
+    "name": "The Wondrous Path of Truth",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Faruzan_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334581,
+    "name": "Surging Undercurrent",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_InvokerHeraldWater_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334582,
+    "name": "Molten Mail",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_HermitCrabPrimo_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334583,
+    "name": "Terror for the Evildoers",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Wriothesley_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334584,
+    "name": "\"Hear Me \u2014 Let Us Raise the Chalice of Love!\"",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Furina_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334585,
+    "name": "Rockin' in a Flaming World",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Xinyan_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334586,
+    "name": "Decorous Harmony",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Yunjin_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334587,
+    "name": "The Art of Budgeting",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Kaveh_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334588,
+    "name": "Lightless Feeding",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Ptahur_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334589,
+    "name": "Fatal Fulmination",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_ScorpionSacred_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334590,
+    "name": "Deathly Cyclone",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_ChrysopeleaSacred_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334591,
+    "name": "A Thousand Young",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Apep_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334592,
+    "name": "Vanguard's Coordinated Tactics",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Chevreuse_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334593,
+    "name": "Undisclosed Distribution Channels",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Navia_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334594,
+    "name": "Rimeflow Rapier",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_EscadronIce_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334595,
+    "name": "Moment of Waking and Resolve",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Freminet_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334596,
+    "name": "They Call Her Cloud Retainer",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Liuyun_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334597,
+    "name": "Hydrodart Slime",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_HilistrayWater_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334598,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_Chiori_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334599,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_InvokerElectric_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 334600,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Talent_EremiteGrass_Golden",
+    "release": false,
+    "type": "Modify_Talent"
+  },
+  {
+    "id": 335000,
+    "name": "Magic Guide",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_CatalystIntro_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335001,
+    "name": "Sacrificial Fragments",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_CatalystFossil_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335002,
+    "name": "Skyward Atlas",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_CatalystDvalin_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335003,
+    "name": "Raven Bow",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_BowCrowfeather_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335004,
+    "name": "Sacrificial Bow",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_BowFossil_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335005,
+    "name": "Skyward Harp",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_BowDvalin_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335006,
+    "name": "White Iron Greatsword",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreTin_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335007,
+    "name": "Sacrificial Greatsword",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Fossil_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335008,
+    "name": "Wolf's Gravestone",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreWolfmound_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335009,
+    "name": "White Tassel",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_PoleRuby_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335010,
+    "name": "Lithic Spear",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_PoleLapis_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335011,
+    "name": "Skyward Spine",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_PoleDvalin_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335012,
+    "name": "Traveler's Handy Sword",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_SwordDarker_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335013,
+    "name": "Sacrificial Sword",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_SwordFossil_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335014,
+    "name": "Aquila Favonia",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_SwordFalcon_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335015,
+    "name": "Adventurer's Bandana",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_MaoxianjiaDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335016,
+    "name": "Lucky Dog's Silver Circlet",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_XingyunerDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335017,
+    "name": "Traveling Doctor's Handkerchief",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_YouyiDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335018,
+    "name": "Gambler's Earrings",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_DutuDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335019,
+    "name": "Instructor's Cap",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_JiaoguanDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335020,
+    "name": "Exile's Circlet",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_LiufangzheDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335021,
+    "name": "Broken Rime's Echo",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_BinDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335022,
+    "name": "Blizzard Strayer",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_BinTaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335023,
+    "name": "Wine-Stained Tricorne",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Shuidanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335024,
+    "name": "Heart of Depth",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Shuitaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335025,
+    "name": "Witch's Scorching Hat",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Monvdanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335026,
+    "name": "Crimson Witch of Flames",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Monvtaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335027,
+    "name": "Thunder Summoner's Crown",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Leidanjia_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335028,
+    "name": "Thundering Fury",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Leitaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335029,
+    "name": "Viridescent Venerer's Diadem",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_FengDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335030,
+    "name": "Viridescent Venerer",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_FengTaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335031,
+    "name": "Mask of Solitude Basalt",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_YanDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335032,
+    "name": "Archaic Petra",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_YanTaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335033,
+    "name": "Laurel Coronet",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_CaoDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335034,
+    "name": "Deepwood Memories",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_CaoTaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335035,
+    "name": "Ornate Kabuto",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Huashi_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335036,
+    "name": "General's Ancient Helm",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Jiangshuai_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335037,
+    "name": "Favonius Sword",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Xifengjian_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335038,
+    "name": "Amos' Bow",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Amos_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335039,
+    "name": "A Thousand Floating Dreams",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Ayus_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335040,
+    "name": "Elegy for the End",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Widsith_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335041,
+    "name": "Skyward Pride",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreDvalin_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335042,
+    "name": "The Bell",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Troupe_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335043,
+    "name": "Vortex Vanquisher",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Kunwu_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335044,
+    "name": "Engulfing Lightning",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Narukami_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335045,
+    "name": "Skyward Blade",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_SwordDvalin_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335046,
+    "name": "Emblem of Severed Fate",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_JueyuanTaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335047,
+    "name": "Tenacity of the Millelith",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_QianyanTaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335048,
+    "name": "Thundering Poise",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_ChenshaDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335049,
+    "name": "Vermillion Hereafter",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_ChenshaTaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335050,
+    "name": "Capricious Visage",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Zhuiyidanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335051,
+    "name": "Shimenawa's Reminiscence",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_ZhuiyiTaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335052,
+    "name": "Fruit of Fulfillment",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Arakalari_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335053,
+    "name": "King's Squire",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Wangxia_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335054,
+    "name": "Moonpiercer",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Guanyue_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335055,
+    "name": "Crown of Watatsumi",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_HaiRanDanJian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335056,
+    "name": "Ocean-Hued Clam",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Hairantaozhuang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335057,
+    "name": "Shadow of the Sand King",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Chiwangdanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335058,
+    "name": "Lost Prayer to the Sacred Winds",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Yuandian_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335059,
+    "name": "Tulaytullah's Remembrance",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Tulaidu_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335060,
+    "name": "Beacon of the Reed Sea",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Xinbiao_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335061,
+    "name": "Primordial Jade Winged-Spear",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Hepuyuan_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335062,
+    "name": "Light of Foliar Incision",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Caiye_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335063,
+    "name": "Gilded Dreams",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Chiwangtao_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335064,
+    "name": "Flowing Rings",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Yuxiang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335065,
+    "name": "Echoes of an Offering",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Yuxiangtao_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335066,
+    "name": "Heart of Khvarena's Brilliance",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Huashen_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335067,
+    "name": "Vourukasha's Glow",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Huashentao_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335068,
+    "name": "Sapwood Blade",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Yuanmu_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335069,
+    "name": "Veteran's Visage",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_LaobinDanjian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335070,
+    "name": "Tome of the Eternal Flow",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Wanshiliuyongdadian_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335071,
+    "name": "Golden Troupe's Reward",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_HuangjinjutuanXiaojian_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335072,
+    "name": "Rightful Reward",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Gongyichoubao_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335073,
+    "name": "Amethyst Crown",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Zijinghuaguan_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335074,
+    "name": "Cashflow Supervision",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Jinliujiandu_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335075,
+    "name": "End of the Line",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Jieze_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335076,
+    "name": "Forest Regalia",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Shenlinwangqi_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335077,
+    "name": "Splendor of Tranquil Waters",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_Jinshuiliuyong_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335078,
+    "name": "Marechaussee Hunter",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_ZhuYingDa_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335079,
+    "name": "Golden Troupe",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_Huangjinjutuanda_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335080,
+    "name": "Flower of Paradise Lost",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_ZijinghuaguanDa_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335081,
+    "name": "\"Ultimate Overlord's Mega Magic Sword\"",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_BaWangJian_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335082,
+    "name": "Prospector's Drill",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_KanTanQiang_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335083,
+    "name": "Gladiator's Triumphus",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_JiaoDouShiXiao_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335084,
+    "name": "Xenochromatic Hunter's Ray",
+    "icon": "UI_Gcg_CardFace_Modify_Vehicle_LiedaoYao_Golden",
+    "release": false,
+    "type": "Modify_Vehicle"
+  },
+  {
+    "id": 335085,
+    "name": "Yumkasaurus",
+    "icon": "UI_Gcg_CardFace_Modify_Vehicle_GouzhuaLong_Golden",
+    "release": false,
+    "type": "Modify_Vehicle"
+  },
+  {
+    "id": 335086,
+    "name": "Koholasaurus",
+    "icon": "UI_Gcg_CardFace_Modify_Vehicle_QiyouLong_Golden",
+    "release": false,
+    "type": "Modify_Vehicle"
+  },
+  {
+    "id": 335087,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Weapon_DongliJu_Golden",
+    "release": false,
+    "type": "Modify_Weapon"
+  },
+  {
+    "id": 335088,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Artifact_DadiYuezhang_Golden",
+    "release": false,
+    "type": "Modify_Artifact"
+  },
+  {
+    "id": 335089,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Modify_Vehicle_JifengLong_Golden",
+    "release": false,
+    "type": "Modify_Vehicle"
+  },
+  {
+    "id": 336000,
+    "name": "Liyue Harbor Wharf",
+    "icon": "UI_Gcg_CardFace_Assist_Location_LiyueHarbor_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336001,
+    "name": "Knights of Favonius Library",
+    "icon": "UI_Gcg_CardFace_Assist_Location_MdLibrary_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336002,
+    "name": "Jade Chamber",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Qunyuge_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336003,
+    "name": "Dawn Winery",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Chenxijiuzhuang_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336004,
+    "name": "Wangshu Inn",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Wangshukezhan_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336005,
+    "name": "Favonius Cathedral",
+    "icon": "UI_Gcg_CardFace_Assist_Location_FavoniusChurch_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336006,
+    "name": "Paimon",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Paimon_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336007,
+    "name": "Katheryne",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Katheryne_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336008,
+    "name": "Timaeus",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Timaeus_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336009,
+    "name": "Wagner",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Wagner_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336010,
+    "name": "Chef Mao",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Maoshifu_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336011,
+    "name": "Tubby",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_AYuan_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336012,
+    "name": "Timmie",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Timmy_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336013,
+    "name": "Liben",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_LiBen_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336014,
+    "name": "Chang the Ninth",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Changjiuye_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336015,
+    "name": "Ellin",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Aileen_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336016,
+    "name": "Iron Tongue Tian",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Tiantiezui_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336017,
+    "name": "Liu Su",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Liusu_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336018,
+    "name": "Parametric Transformer",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_ParametricTransformer_Golden",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 336019,
+    "name": "NRE",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_NREMenu_Golden",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 336020,
+    "name": "Grand Narukami Shrine",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Mingshendashe_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336021,
+    "name": "Tenshukaku",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Tianshou_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336022,
+    "name": "Sangonomiya Shrine",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Shanhu_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336023,
+    "name": "Sumeru City",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Xumi_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336024,
+    "name": "Vanarana",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Hengna_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336025,
+    "name": "Chinju Forest",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Zhengshoui_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336026,
+    "name": "Hanachirusato",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Huasanli_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336027,
+    "name": "Kid Kujirai",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Yingjin_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336028,
+    "name": "Xudong",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Xudong_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336029,
+    "name": "Dunyarzad",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Dina_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336030,
+    "name": "Rana",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Lana_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336031,
+    "name": "Red Feather Fan",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_Hongye_Golden",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 336032,
+    "name": "Treasure-Seeking Seelie",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_Xunbao_Golden",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 336033,
+    "name": "Master Zhang",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Laozhang_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336034,
+    "name": "Golden House",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Huangjinwu_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336035,
+    "name": "Setaria",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Saileita_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336036,
+    "name": "Gandharva Ville",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Gandharva_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336037,
+    "name": "Yayoi Nanatsuki",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Yayoyi_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336038,
+    "name": "Stormterror's Lair",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Fenglong_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336039,
+    "name": "Weeping Willow of the Lake",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Chuiliu_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336040,
+    "name": "Opera Epiclese",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Gejuyuan_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336041,
+    "name": "Mamere",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Mamere_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336042,
+    "name": "Seed Dispensary",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_Seedbox_Golden",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 336043,
+    "name": "Memento Lens",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_Mirror_Golden",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 336044,
+    "name": "Jeht",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Jeht_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336045,
+    "name": "Silver and Melus",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Silver_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336046,
+    "name": "Fortress of Meropide",
+    "icon": "UI_Gcg_CardFace_Assist_Location_BideBao_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336047,
+    "name": "Lumenstone Adjuvant",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_Liumingshi_Golden",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 336048,
+    "name": "Seirai Island",
+    "icon": "UI_Gcg_CardFace_Assist_Location_Qinglaidao_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336049,
+    "name": "Taroumaru",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Taroumaru_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336050,
+    "name": "The White Glove and the Fisherman",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Baishoutao_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336051,
+    "name": "The Mausoleum of King Deshret",
+    "icon": "UI_Gcg_CardFace_Assist_Location_ChiWangLin_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336052,
+    "name": "Central Laboratory Ruins",
+    "icon": "UI_Gcg_CardFace_Assist_Location_FontaineSci_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336053,
+    "name": "Sir Arthur",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_MrArthur_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336054,
+    "name": "Kusava",
+    "icon": "UI_Gcg_CardFace_Assist_Prop_KuSheHeng_Golden",
+    "release": false,
+    "type": "Assist_Prop"
+  },
+  {
+    "id": 336055,
+    "name": "Serene",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_Seling_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336056,
+    "name": "Stadium of the Sacred Flame",
+    "icon": "UI_Gcg_CardFace_Assist_Location_JingjiChang_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 336057,
+    "name": "Atea",
+    "icon": "UI_Gcg_CardFace_Assist_NPC_AimiTa_Golden",
+    "release": false,
+    "type": "Assist_NPC"
+  },
+  {
+    "id": 336058,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Assist_Location_DouWuTai_Golden",
+    "release": false,
+    "type": "Assist_Location"
+  },
+  {
+    "id": 337000,
+    "name": "Elemental Resonance: Woven Ice",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Ice_Golden",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 337001,
+    "name": "Elemental Resonance: Shattering Ice",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Ice_Golden",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 337002,
+    "name": "Elemental Resonance: Woven Waters",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Water_Golden",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 337003,
+    "name": "Elemental Resonance: Soothing Water",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Water_Golden",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 337004,
+    "name": "Elemental Resonance: Woven Flames",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Fire_Golden",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 337005,
+    "name": "Elemental Resonance: Fervent Flames",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Fire_Golden",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 337006,
+    "name": "Elemental Resonance: Woven Thunder",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Electric_Golden",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 337007,
+    "name": "Elemental Resonance: High Voltage",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Electric_Golden",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 337008,
+    "name": "Elemental Resonance: Woven Winds",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Wind_Golden",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 337009,
+    "name": "Elemental Resonance: Impetuous Winds",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Wind_Golden",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 337010,
+    "name": "Elemental Resonance: Woven Stone",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Rock_Golden",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 337011,
+    "name": "Elemental Resonance: Enduring Rock",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Rock_Golden",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 337012,
+    "name": "Elemental Resonance: Woven Weeds",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceB_Grass_Golden",
+    "release": false,
+    "type": "Event_ResonanceB"
+  },
+  {
+    "id": 337013,
+    "name": "Elemental Resonance: Sprawling Greenery",
+    "icon": "UI_Gcg_CardFace_Event_ResonanceA_Grass_Golden",
+    "release": false,
+    "type": "Event_ResonanceA"
+  },
+  {
+    "id": 337014,
+    "name": "The Bestest Travel Companion!",
+    "icon": "UI_Gcg_CardFace_Event_Event_BestAibo_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337015,
+    "name": "Changing Shifts",
+    "icon": "UI_Gcg_CardFace_Event_Event_Huanbanshijian_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337016,
+    "name": "Toss-Up",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yizhiqiankun_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337017,
+    "name": "Strategize",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yunchouweiwo_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337018,
+    "name": "I Haven't Lost Yet!",
+    "icon": "UI_Gcg_CardFace_Event_Event_Bendayehaimeiyoushu_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337019,
+    "name": "Leave it to Me!",
+    "icon": "UI_Gcg_CardFace_Event_Event_Jiaogeiwoba_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337020,
+    "name": "When the Crane Returned",
+    "icon": "UI_Gcg_CardFace_Event_Event_Heguizhishi_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337021,
+    "name": "Starsigns",
+    "icon": "UI_Gcg_CardFace_Event_Event_Xingtian_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337022,
+    "name": "Calx's Arts",
+    "icon": "UI_Gcg_CardFace_Event_Event_Baiezhishu_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337023,
+    "name": "Master of Weaponry",
+    "icon": "UI_Gcg_CardFace_Event_Event_Zhuwujingtong_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337024,
+    "name": "Blessing of the Divine Relic's Installation",
+    "icon": "UI_Gcg_CardFace_Event_Event_Shenbaoqiangongzhuci_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337025,
+    "name": "Quick Knit",
+    "icon": "UI_Gcg_CardFace_Event_Event_Kuaikuaifengbushu_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337026,
+    "name": "Send Off",
+    "icon": "UI_Gcg_CardFace_Event_Event_Songniyicheng_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337027,
+    "name": "Guardian's Oath",
+    "icon": "UI_Gcg_CardFace_Event_Event_Hufazhishi_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337028,
+    "name": "Abyssal Summons",
+    "icon": "UI_Gcg_CardFace_Event_Event_Abyssdehuhuan_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337029,
+    "name": "Jueyun Guoba",
+    "icon": "UI_Gcg_CardFace_Event_Food_Jueyunguoba_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337030,
+    "name": "Adeptus' Temptation",
+    "icon": "UI_Gcg_CardFace_Event_Food_XTQ_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337031,
+    "name": "Lotus Flower Crisp",
+    "icon": "UI_Gcg_CardFace_Event_Food_Lianhuasu_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337032,
+    "name": "Northern Smoked Chicken",
+    "icon": "UI_Gcg_CardFace_Event_Food_Beidiyanxunji_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337033,
+    "name": "Sweet Madame",
+    "icon": "UI_Gcg_CardFace_Event_Food_Huaniangji_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337034,
+    "name": "Mondstadt Hash Brown",
+    "icon": "UI_Gcg_CardFace_Event_Food_Tudoubin_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337035,
+    "name": "Mushroom Pizza",
+    "icon": "UI_Gcg_CardFace_Event_Food_Kaomogupisa_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337036,
+    "name": "Minty Meat Rolls",
+    "icon": "UI_Gcg_CardFace_Event_Food_Bohejuan_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337037,
+    "name": "Wind and Freedom",
+    "icon": "UI_Gcg_CardFace_Event_Event_Fengyuziyou_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337038,
+    "name": "Stone and Contracts",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yanyuqiyue_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337039,
+    "name": "Thunder and Eternity",
+    "icon": "UI_Gcg_CardFace_Event_Event_Leiyuyongheng_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337040,
+    "name": "Nature and Wisdom",
+    "icon": "UI_Gcg_CardFace_Event_Event_Caoyuzhihui_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337041,
+    "name": "Fatui Conspiracy",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yurenzhongi_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337042,
+    "name": "Plunging Strike",
+    "icon": "UI_Gcg_CardFace_Event_Event_Xialuo_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337043,
+    "name": "Heavy Strike",
+    "icon": "UI_Gcg_CardFace_Event_Event_Zhonggongji_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337044,
+    "name": "The Legend of Vennessa",
+    "icon": "UI_Gcg_CardFace_Event_Event_Wennisha_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337045,
+    "name": "Friendship Eternal",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yongyuandeyouyi_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337046,
+    "name": "Teyvat Fried Egg",
+    "icon": "UI_Gcg_CardFace_Event_Food_Jiandan_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337047,
+    "name": "Sashimi Platter",
+    "icon": "UI_Gcg_CardFace_Event_Food_Cishen_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337048,
+    "name": "Tandoori Roast Chicken",
+    "icon": "UI_Gcg_CardFace_Event_Food_Tangduer_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337049,
+    "name": "Butter Crab",
+    "icon": "UI_Gcg_CardFace_Event_Food_Huangyou_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337050,
+    "name": "Ancient Courtyard",
+    "icon": "UI_Gcg_CardFace_Event_Event_Jiangjun_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337051,
+    "name": "Covenant of Rock",
+    "icon": "UI_Gcg_CardFace_Event_Event_Chuanglong_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337052,
+    "name": "Rhythm of the Great Dream",
+    "icon": "UI_Gcg_CardFace_Event_Event_Dameng_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337053,
+    "name": "Joyous Celebration",
+    "icon": "UI_Gcg_CardFace_Event_Event_Qingdian_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337054,
+    "name": "Where Is the Unseen Razor?",
+    "icon": "UI_Gcg_CardFace_Event_Event_Cangfen_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337055,
+    "name": "Fresh Wind of Freedom",
+    "icon": "UI_Gcg_CardFace_Event_Event_Xinfeng_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337056,
+    "name": "Pankration!",
+    "icon": "UI_Gcg_CardFace_Event_Event_Heiquan_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337057,
+    "name": "In Every House a Stove",
+    "icon": "UI_Gcg_CardFace_Event_Event_Guobahelp_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337058,
+    "name": "Lyresong",
+    "icon": "UI_Gcg_CardFace_Event_Event_Wangfu_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337059,
+    "name": "Passing of Judgment",
+    "icon": "UI_Gcg_CardFace_Event_Event_Xuanpanyouzui_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337060,
+    "name": "The Boar Princess",
+    "icon": "UI_Gcg_CardFace_Event_Event_Yezhu_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337061,
+    "name": "Falls and Fortune",
+    "icon": "UI_Gcg_CardFace_Event_Event_Tanta_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337062,
+    "name": "Flickering Four-Leaf Sigil",
+    "icon": "UI_Gcg_CardFace_Event_Event_Siyeyin_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337063,
+    "name": "Fish and Chips",
+    "icon": "UI_Gcg_CardFace_Event_Food_Chips_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337064,
+    "name": "Machine Assembly Line",
+    "icon": "UI_Gcg_CardFace_Event_Event_Fatiaoji_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337065,
+    "name": "Sunyata Flower",
+    "icon": "UI_Gcg_CardFace_Event_Event_Ganluhua_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337066,
+    "name": "Matsutake Meat Rolls",
+    "icon": "UI_Gcg_CardFace_Event_Food_Matsutake_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337067,
+    "name": "Day of Resistance: Moment of Shattered Dreams",
+    "icon": "UI_Gcg_CardFace_Event_Event_Fankang_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337068,
+    "name": "Controlled Directional Blast",
+    "icon": "UI_Gcg_CardFace_Event_Event_Kexueyuan_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337069,
+    "name": "Underwater Treasure Hunt",
+    "icon": "UI_Gcg_CardFace_Event_Event_Xunbao_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337070,
+    "name": "Rainbow Macarons",
+    "icon": "UI_Gcg_CardFace_Event_Food_Macarons_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 337071,
+    "name": "Vicious Ancient Battle",
+    "icon": "UI_Gcg_CardFace_Event_Event_LeiShenZhan_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337072,
+    "name": "Water and Justice",
+    "icon": "UI_Gcg_CardFace_Event_Event_WaterJustice_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337073,
+    "name": "Countdown to the Show: 3",
+    "icon": "UI_Gcg_CardFace_Event_Event_MagicCount3_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337074,
+    "name": "\"I'd Rather Lose Money Myself...\"",
+    "icon": "UI_Gcg_CardFace_Event_Event_ZhuanQian_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337075,
+    "name": "Tada!",
+    "icon": "UI_Gcg_CardFace_Event_Event_DengDeng_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337076,
+    "name": "Saurian Dining Buddies",
+    "icon": "UI_Gcg_CardFace_Event_Event_FeedDrogen_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337077,
+    "name": "Edict of Absolution",
+    "icon": "UI_Gcg_CardFace_Event_Event_Wuzui_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337078,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Event_Event_Caxie_Golden",
+    "release": false,
+    "type": "Event_Event"
+  },
+  {
+    "id": 337079,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardFace_Event_Food_LonglongCookie_Golden",
+    "release": false,
+    "type": "Event_Food"
+  },
+  {
+    "id": 339000,
+    "name": "Origin",
+    "icon": "UI_Gcg_CardBack_01",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339001,
+    "name": "Mondstadt",
+    "icon": "UI_Gcg_CardBack_Mengde",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339002,
+    "name": "Liyue",
+    "icon": "UI_Gcg_CardBack_Liyue",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339003,
+    "name": "Inazuma",
+    "icon": "UI_Gcg_CardBack_Inazuma",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339004,
+    "name": "Sumeru",
+    "icon": "UI_Gcg_CardBack_Sumeru",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339009,
+    "name": "Legend",
+    "icon": "UI_Gcg_CardBack_LevelReward",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339010,
+    "name": "Adept",
+    "icon": "UI_Gcg_CardBack_HandbookReward",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339011,
+    "name": "Crystal Chunk",
+    "icon": "UI_Gcg_CardBack_CrystalChunk",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339012,
+    "name": "Magical Crystal Chunk",
+    "icon": "UI_Gcg_CardBack_MagicalCrystalChunk",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339013,
+    "name": "Amethyst Lump",
+    "icon": "UI_Gcg_CardBack_AmethystLump",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339014,
+    "name": "Flaming Flower Stamen",
+    "icon": "UI_Gcg_CardBack_FlamingFlowerStamen",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339015,
+    "name": "Mist Flower Corolla",
+    "icon": "UI_Gcg_CardBack_MistFlowerCorolla",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339016,
+    "name": "Electro Crystal",
+    "icon": "UI_Gcg_CardBack_ElectroCrystal",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339017,
+    "name": "Dandelion Seed",
+    "icon": "UI_Gcg_CardBack_DandelionSeed",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339018,
+    "name": "Cecilia",
+    "icon": "UI_Gcg_CardBack_Cecilia",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339019,
+    "name": "Glaze Lily",
+    "icon": "UI_Gcg_CardBack_GlazeLily",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339020,
+    "name": "Dendrobium",
+    "icon": "UI_Gcg_CardBack_Dendrobium",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339021,
+    "name": "Lazurite Swirl",
+    "icon": "UI_Gcg_CardBack_Dvalin",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339022,
+    "name": "Treasures of the Deck",
+    "icon": "UI_Gcg_CardBack_Thoarder",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339023,
+    "name": "Fontaine",
+    "icon": "UI_Gcg_CardBack_Fontaine",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339024,
+    "name": "The Fortress of Meropide",
+    "icon": "UI_Gcg_CardBack_Prison",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339025,
+    "name": "Dragonspine: Traces",
+    "icon": "UI_Gcg_CardBack_Championship_01",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339026,
+    "name": "Dragonspine: Crown",
+    "icon": "UI_Gcg_CardBack_Championship_02",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339027,
+    "name": "The Chasm: Solid Iron",
+    "icon": "UI_Gcg_CardBack_Championship_03",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339028,
+    "name": "The Chasm: Blue Crystal",
+    "icon": "UI_Gcg_CardBack_Championship_04",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339029,
+    "name": "Fonta",
+    "icon": "UI_Gcg_CardBack_Fonta",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339030,
+    "name": "The Chasm: Crown",
+    "icon": "UI_Gcg_CardBack_Championship_05",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339031,
+    "name": "Natlan",
+    "icon": "UI_Gcg_CardBack_Natlan",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339032,
+    "name": "? ? ?",
+    "icon": "UI_Gcg_CardBack_Championship_06",
+    "release": false,
+    "type": "CardBack"
+  },
+  {
+    "id": 339500,
+    "name": "Mondstadt",
+    "icon": "UI_Gcg_Cardtable_Md",
+    "release": false,
+    "type": "Cardtable"
+  },
+  {
+    "id": 339501,
+    "name": "Liyue",
+    "icon": "UI_Gcg_Cardtable_Ly",
+    "release": false,
+    "type": "Cardtable"
+  },
+  {
+    "id": 339502,
+    "name": "Inazuma",
+    "icon": "UI_Gcg_Cardtable_Dq",
+    "release": false,
+    "type": "Cardtable"
+  },
+  {
+    "id": 339503,
+    "name": "Sumeru",
+    "icon": "UI_Gcg_Cardtable_Xm",
+    "release": false,
+    "type": "Cardtable"
+  },
+  {
+    "id": 339504,
+    "name": "Fontaine",
+    "icon": "UI_Gcg_Cardtable_Fd",
+    "release": false,
+    "type": "Cardtable"
+  },
+  {
+    "id": 339901,
+    "name": "Beginner Player Badge",
+    "icon": "UI_GcgIcon_CardLevel1",
+    "release": false,
+    "type": "CardLevel1"
+  },
+  {
+    "id": 339902,
+    "name": "Advanced Player Badge",
+    "icon": "UI_GcgIcon_CardLevel2",
+    "release": false,
+    "type": "CardLevel2"
+  },
+  {
+    "id": 339903,
+    "name": "Expert Player Badge",
+    "icon": "UI_GcgIcon_CardLevel3",
+    "release": false,
+    "type": "CardLevel3"
+  },
+  {
+    "id": 339904,
+    "name": "Master Player Badge",
+    "icon": "UI_GcgIcon_CardLevel4",
+    "release": false,
+    "type": "CardLevel4"
+  },
+  {
+    "id": 339905,
+    "name": "Legend Player Badge",
+    "icon": "UI_GcgIcon_CardLevel5",
+    "release": false,
+    "type": "CardLevel5"
+  }
+]

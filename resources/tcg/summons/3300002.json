@@ -1,0 +1,10 @@
+{
+    "id": 3300002,
+    "name": "Sacred Cryo Pearl",
+    "usage": 2,
+    "maxUsage": 2,
+    "abilities": [
+        1,
+        1
+    ]
+}

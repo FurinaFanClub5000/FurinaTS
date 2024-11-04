@@ -1,0 +1,78 @@
+{
+    "id": 330000,
+    "name": "Ganyu",
+    "weapon": 5,
+    "element": 1,
+    "group": 2,
+    "stats": {
+        "hp": 10,
+        "energy": 3
+    },
+    "attacks": [
+        {
+            "type": "NormalAttack",
+            "damage": 2,
+            "damageType": 8,
+            "abilities": []
+        },
+        {
+            "type": "AdditionalAttack",
+            "damage": 2,
+            "damageType": 1,
+            "abilities": [
+                {
+                    "type": "Damage",
+                    "damageType": 8,
+                    "value": [
+                        2
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Skill",
+            "damage": 1,
+            "damageType": 1,
+            "abilities": [
+                {
+                    "type": "Summon",
+                    "value": 3300001
+                }
+            ]
+        },
+        {
+            "type": "Burst",
+            "damage": 2,
+            "damageType": 1,
+            "abilities": [
+                {
+                    "type": "Damage",
+                    "damageType": 1,
+                    "value": [
+                        2
+                    ]
+                },
+                {
+                    "type": "Summon",
+                    "value": 3300002
+                }
+            ]
+        }
+    ],
+    "talents": [
+        {
+            "id": 330500,
+            "condition": [
+                330000
+            ],
+            "abilities": [
+                {
+                    "type": "Attack",
+                    "value": [
+                        2, 2
+                    ]
+                }
+            ]
+        }
+    ]
+}

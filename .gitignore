@@ -4,6 +4,7 @@
 
 ### User ###
 resources/client.json
+package-lock.json
 
 ### Node ###
 # Logs

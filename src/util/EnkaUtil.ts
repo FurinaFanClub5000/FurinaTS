@@ -42,7 +42,7 @@ export interface BriefDataStruct {
 }
 export default class EnkaUtil {
 
-    public static async getEnkaData(uid: string): Promise<BriefDataStruct | Retcode> { // Now returns a Promise
+    public static async getEnkaData(uid: string): Promise<BriefDataStruct | Retcode> {
         let apiUrl = `https://enka.network/api/uid/${uid}/?info`;
 
         try {
@@ -52,7 +52,6 @@ export default class EnkaUtil {
                 return Retcode.RET_UID_INVALID;
             }
 
-            // Return the actual data if the response is successful
             return response.data;
         } catch (error) {
             console.error(error);
