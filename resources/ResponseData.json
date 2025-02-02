@@ -1,7 +1,7 @@
 [
     {
         "name": "greet",
-        "triggers": ["hi", "hello", "hey", "hai"],
+        "triggers": ["18246189012301247"],
         "type": "RESPONSE_REPLY",
         "response": "hi"
     },

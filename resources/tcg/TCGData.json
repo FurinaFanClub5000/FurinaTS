@@ -38,21 +38,21 @@
     "id": 330000,
     "name": "Ganyu",
     "icon": "UI_Gcg_CardFace_Char_Avatar_Ganyu",
-    "release": false,
+    "release": true,
     "type": "Card_Avatar"
   },
   {
     "id": 330001,
     "name": "Kaeya",
     "icon": "UI_Gcg_CardFace_Char_Avatar_Kaeya",
-    "release": false,
+    "release": true,
     "type": "Card_Avatar"
   },
   {
     "id": 330002,
     "name": "Chongyun",
     "icon": "UI_Gcg_CardFace_Char_Avatar_Chongyun",
-    "release": false,
+    "release": true,
     "type": "Card_Avatar"
   },
   {

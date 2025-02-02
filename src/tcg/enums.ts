@@ -29,3 +29,11 @@ export enum Group {
     Abyss = 9,
     Celestia = 10
 }
+
+export enum MatchState {
+    None = 0,
+    Matching = 1,
+    Lineup = 2,
+    Battle = 3,
+    End = 4
+}
