@@ -1,10 +1,24 @@
-import { Client, Message } from 'discord.js';
+import { Client, GuildTextBasedChannel, Message } from 'discord.js';
 import CommandsData from '../util/CommandsData';
 import ResponseData from '../util/ResponseData';
+import ClientData from '../util/ClientData';
 
 export default async function execute(client: Client, message: Message) {
 
     if (message.author.bot) return;
+
+    if (ClientData.ispmo()) { 
+        const content = message.content.split(" ");
+        let s = "";
+        content.forEach(t => {
+            s += Math.random() < 0.5 ? "ts " : "pmo ";
+        });
+
+        await (message.channel as GuildTextBasedChannel).send(`${message.author.displayName}: ${s}`)
+        await message.delete()
+        return
+    }
+    
 
     if (message.content.startsWith("-")) {
         console.log(`[*] ${message.author.displayName}: ${message.content}`);

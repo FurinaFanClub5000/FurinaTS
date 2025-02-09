@@ -32,6 +32,19 @@
         "module": "../slash/game.ts"
     },
     {
+        "name": "tspmo",
+        "description": "ts pmo",
+        "optionsList": [
+            {
+                "name": "tspmo",
+                "description": "ts pmo",
+                "type": "boolean",
+                "required": true
+            }
+        ],
+        "module": "../slash/tspmo.ts"
+    },
+    {
         "name": "battle",
         "description": "Battle someone in a round of Genius Invocation TCG!",
         "optionsList": [

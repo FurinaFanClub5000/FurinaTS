@@ -1,10 +1,17 @@
+import "fs";
 import ClientJson from "../../resources/Client.json";
+import { writeFileSync } from "fs";
+
+interface ConfigStruct {
+    tspmo: boolean
+}
 
 interface ClientStruct {
     token: string,
     botId: string,
     guilds: string[],
-    registerOnStart: boolean
+    registerOnStart: boolean,
+    config: ConfigStruct
 }
 
 const ClientJsonData:ClientStruct = ClientJson
@@ -31,6 +38,14 @@ export default class ClientData {
 
     public static isRegisterOnStart(): boolean {
         return ClientJsonData.registerOnStart
+    }
+
+    public static ispmo(): boolean {
+        return ClientJsonData.config.tspmo
+    }
+
+    public static tspmo(pmo: boolean) {
+        ClientJsonData.config.tspmo = pmo
     }
 
 }

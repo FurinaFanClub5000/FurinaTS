@@ -2,7 +2,7 @@ import { ActionRowBuilder, ActionRowComponent, ButtonBuilder, ButtonInteraction,
 import { MatchState } from "../tcg/enums"
 import { TCGUtil } from "../util/TCG"
 import { matchBattleData } from "../tcg/battle"
-import TCGBattle from "../tcg/tcgbattle"
+import TCGBattle from "../tcg/TCGBattle"
 
 function LineupEmbed() {
     let characters = ""
@@ -91,7 +91,7 @@ export class TCGMatch {
             })
         })
         modalInteraction.reply({content: "Done!", ephemeral: true})
-        console.log(this.matchData)
+        console.log(JSON.stringify(this.matchData))
     }
 
     public start(buttonInteraction: ButtonInteraction) {

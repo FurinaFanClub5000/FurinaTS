@@ -1,3 +1,4 @@
+import { EmbedBuilder } from "discord.js"
 import { matchBattleData } from "./battle"
 import { MatchState } from "./enums"
 
@@ -17,6 +18,15 @@ export default class TCGBattle {
         this.playerId = player
         this.matchData = matchData
     }
+
+    public updateEmbed() {
+
+        const embed = new EmbedBuilder()
+        .setTitle("TCG Battle Test")
+        
+
+    }
+    
 
     public init() {
         
